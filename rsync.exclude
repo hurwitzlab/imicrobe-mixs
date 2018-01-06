@@ -1,0 +1,8 @@
+.cache
+.DS_Store
+.idea
+.git
+.gitignore
+*.img*
+*.pyc
+__pycache__
