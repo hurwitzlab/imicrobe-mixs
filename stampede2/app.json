@@ -4,10 +4,10 @@
     "defaultMemoryPerNode": 32,
     "defaultNodeCount": 1,
     "defaultProcessorsPerNode": 16,
-    "defaultQueue": "serial",
-    "deploymentPath": "jklynch/applications/imicrobe-mixs-0.0.1/stampede",
+    "defaultQueue": "skx-normal",
+    "deploymentPath": "jklynch/applications/imicrobe-mixs-0.0.2/stampede2",
     "deploymentSystem": "data.iplantcollaborative.org",
-    "executionSystem": "tacc-stampede-jklynch",
+    "executionSystem": "tacc-stampede2-jklynch",
     "executionType": "HPC",
     "helpURI": "",
     "label": "iMicrobe MIxS",
@@ -25,7 +25,7 @@
     ],
     "templatePath": "template.sh",
     "testPath": "test.sh",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "inputs": [
         {
           "id": "TARGET_FILE",

@@ -1,6 +1,6 @@
 {
   "name": "imicrobe-mixs-test",
-  "appId": "imicrobe-mixs-0.0.1",
+  "appId": "imicrobe-mixs-0.0.2",
   "archive": true,
   "inputs": {
     "TARGET_FILE": "jklynch/test/imicrobe-mixs/E_coli_S_flexneri_0.001.fa"
