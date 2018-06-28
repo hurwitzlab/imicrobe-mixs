@@ -1,0 +1,11 @@
+<RUN_SET>
+    <RUN alias="imicrobe_run" center_name="the central center">
+        <EXPERIMENT_REF refname="imicrobe_exp"/>
+        <DATA_BLOCK>
+            <FILES>
+                <FILE filename="upload_test.fastq.gz" filetype="fastq" 
+                      checksum_method="MD5" checksum="3d8eb596dd5a236850449e1482f5e1aa"/>
+            </FILES>
+        </DATA_BLOCK>
+    </RUN>
+</RUN_SET>

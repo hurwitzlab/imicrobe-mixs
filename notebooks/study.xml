@@ -1,0 +1,10 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<PROJECT_SET>
+   <PROJECT alias="imicrobe_programmatic_study" center_name="the central center">
+      <TITLE>Demonstration of Programmatic Data Submission</TITLE>
+      <DESCRIPTION>A demonstration of programmatic data submission.</DESCRIPTION>
+      <SUBMISSION_PROJECT>
+         <SEQUENCING_PROJECT/>
+      </SUBMISSION_PROJECT>
+   </PROJECT>
+</PROJECT_SET>
