@@ -1,9 +1,9 @@
 {
     "checkpointable": false,
     "defaultMaxRunTime": "12:00:00",
-    "defaultMemoryPerNode": 32,
+    "defaultMemoryPerNode": 192,
     "defaultNodeCount": 1,
-    "defaultProcessorsPerNode": 16,
+    "defaultProcessorsPerNode": 1,
     "defaultQueue": "skx-normal",
     "deploymentPath": "jklynch/applications/imicrobe-mixs-0.0.2/stampede2",
     "deploymentSystem": "data.iplantcollaborative.org",
